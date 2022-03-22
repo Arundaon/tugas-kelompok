@@ -1,7 +1,7 @@
-# tugas-kelompok
+Repositori ini adalah milik Kelompok 4 Pemrograman Web kelas TIF C. Isi ada repositori ini file yang berkaitan dengan penugasan kelompok
 
-Arundaon Ramadhani Yudistira
+1. Arundaon Ramadhani Yudistira
 
-Muhammad Imam Hidayat
+2. Muhammad Imam Hidayat 205150200111028
 
-Reza Agung Nugraha
+3. Reza Agung Nugraha
